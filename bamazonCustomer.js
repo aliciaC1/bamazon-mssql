@@ -8,7 +8,7 @@ var emoji = require('node-emoji');
 
 var config ={
   user: 'sa',
-  password: 'marGiela1!',
+  password: '',
   server: 'localhost', 
   database: 'bamazonDB', 
   dialect: 'mssql',
