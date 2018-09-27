@@ -9,7 +9,7 @@ var emoji = require('node-emoji');
 var connection = mysql.createConnection({
     host : 'localhost',
     user : 'sa',
-    password : 'marGiela1!',
+    password : '',
     database : 'bamazonDB'
   });
 
